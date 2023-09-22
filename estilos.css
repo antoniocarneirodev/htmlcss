@@ -1,0 +1,35 @@
+/*css document index */
+
+body{
+ margin-right: 2%;
+ margin-left: 2%;
+ background-repeat: no-repeat;
+}
+.topohome{
+  margin-top: 0px;
+  height: 400px;
+  width: 300px;
+  padding: 10px;
+  margin: left;
+  background-image: url("menu.png");
+  border-radius: 8px;
+ 
+}
+.topotop{
+  height: 25%;
+  width: 100%;
+  padding: 0px;
+  margin: left;
+  background-image: url("fundotopo.png");
+  border-radius: 8px;
+  margin-top: 2%;
+  border-style: solid;
+  
+}
+
+
+.principalsite {
+  height: 100%;
+  width: 1200px;
+  border: 0px;
+}
